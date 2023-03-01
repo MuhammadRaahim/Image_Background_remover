@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bg_remover</string>
+    <string name="str_remove_background">Remove Background</string>
+    <string name="str_add">Add</string>
+</resources>
